@@ -1,0 +1,5 @@
+path: /kaggle/working/yolo_eye
+train: images/train
+val: images/val
+nc: 2
+names: ['open', 'closed']
